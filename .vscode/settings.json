@@ -2,7 +2,8 @@
     "files.exclude": {
         ".cph/": true,
         ".vscode/": true,
-    },
+        "*.bin": true,
+      },
 
     // settings for turning off all kinds of auto-complete,snippet,intellisense
     "editor.acceptSuggestionOnCommitCharacter": false,
